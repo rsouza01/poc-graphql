@@ -30,6 +30,7 @@ npm run test
 
 ## References
 
+* [Building a GraphQL API](https://medium.com/@madelinecorman/building-a-graphql-api-241c29cc5403)
 * [Introduction to GraphQL](https://chathuranga94.medium.com/introduction-to-graphql-3e0142879aba)
 
 ## Author
